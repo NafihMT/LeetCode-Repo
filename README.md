@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NafihMT/LeetCode-Repo/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/NafihMT/LeetCode-Repo/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/NafihMT/LeetCode-Repo/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
