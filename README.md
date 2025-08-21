@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NafihMT/LeetCode-Repo/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Two Pointers
 |  |
@@ -43,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
