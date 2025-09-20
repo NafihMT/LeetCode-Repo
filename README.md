@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/NafihMT/LeetCode-Repo/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
