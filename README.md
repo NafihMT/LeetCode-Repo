@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/NafihMT/LeetCode-Repo/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/NafihMT/LeetCode-Repo/tree/master/0196-delete-duplicate-emails) |
 | [0607-sales-person](https://github.com/NafihMT/LeetCode-Repo/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0619-biggest-single-number) |
 ## Binary Search
 |  |
 | ------- |
