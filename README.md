@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/NafihMT/LeetCode-Repo/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NafihMT/LeetCode-Repo/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/NafihMT/LeetCode-Repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/NafihMT/LeetCode-Repo/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/NafihMT/LeetCode-Repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NafihMT/LeetCode-Repo/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/NafihMT/LeetCode-Repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
