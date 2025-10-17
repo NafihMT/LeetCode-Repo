@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/NafihMT/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1448-maximum-69-number) |
 | [2481-strictly-palindromic-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/2481-strictly-palindromic-number) |
+| [2556-convert-the-temperature](https://github.com/NafihMT/LeetCode-Repo/tree/master/2556-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
