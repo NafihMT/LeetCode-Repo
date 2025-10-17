@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NafihMT/LeetCode-Repo/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NafihMT/LeetCode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NafihMT/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/NafihMT/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NafihMT/LeetCode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/NafihMT/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NafihMT/LeetCode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [1873-longest-nice-substring](https://github.com/NafihMT/LeetCode-Repo/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
