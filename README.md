@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NafihMT/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2350-find-closest-number-to-zero](https://github.com/NafihMT/LeetCode-Repo/tree/master/2350-find-closest-number-to-zero) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NafihMT/LeetCode-Repo/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3194-find-words-containing-character](https://github.com/NafihMT/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NafihMT/LeetCode-Repo/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/NafihMT/LeetCode-Repo/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3194-find-words-containing-character](https://github.com/NafihMT/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NafihMT/LeetCode-Repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
