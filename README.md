@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NafihMT/LeetCode-Repo/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NafihMT/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/NafihMT/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/2481-strictly-palindromic-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NafihMT/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
