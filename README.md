@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NafihMT/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NafihMT/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/NafihMT/LeetCode-Repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/NafihMT/LeetCode-Repo/tree/master/2350-find-closest-number-to-zero) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NafihMT/LeetCode-Repo/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3194-find-words-containing-character](https://github.com/NafihMT/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/NafihMT/LeetCode-Repo/tree/master/0283-move-zeroes) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/NafihMT/LeetCode-Repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/2481-strictly-palindromic-number) |
 ## Math
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2058-concatenation-of-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NafihMT/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/NafihMT/LeetCode-Repo/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Brainteaser
 |  |
 | ------- |
