@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
+| [2048-build-array-from-permutation](https://github.com/NafihMT/LeetCode-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NafihMT/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NafihMT/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/NafihMT/LeetCode-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NafihMT/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NafihMT/LeetCode-Repo/tree/master/2265-partition-array-according-to-given-pivot) |
