@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/NafihMT/LeetCode-Repo/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/NafihMT/LeetCode-Repo/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/NafihMT/LeetCode-Repo/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NafihMT/LeetCode-Repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/NafihMT/LeetCode-Repo/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/NafihMT/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [1873-longest-nice-substring](https://github.com/NafihMT/LeetCode-Repo/tree/master/1873-longest-nice-substring) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/NafihMT/LeetCode-Repo/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
