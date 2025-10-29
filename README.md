@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NafihMT/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NafihMT/LeetCode-Repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/NafihMT/LeetCode-Repo/tree/master/2350-find-closest-number-to-zero) |
+| [2502-sort-the-people](https://github.com/NafihMT/LeetCode-Repo/tree/master/2502-sort-the-people) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NafihMT/LeetCode-Repo/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NafihMT/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/NafihMT/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [1873-longest-nice-substring](https://github.com/NafihMT/LeetCode-Repo/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2502-sort-the-people](https://github.com/NafihMT/LeetCode-Repo/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NafihMT/LeetCode-Repo/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NafihMT/LeetCode-Repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NafihMT/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2502-sort-the-people](https://github.com/NafihMT/LeetCode-Repo/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/NafihMT/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NafihMT/LeetCode-Repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NafihMT/LeetCode-Repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NafihMT/LeetCode-Repo/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NafihMT/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2502-sort-the-people](https://github.com/NafihMT/LeetCode-Repo/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NafihMT/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
