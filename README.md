@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NafihMT/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/NafihMT/LeetCode-Repo/tree/master/0643-maximum-average-subarray-i) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [1873-longest-nice-substring](https://github.com/NafihMT/LeetCode-Repo/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/NafihMT/LeetCode-Repo/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NafihMT/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/NafihMT/LeetCode-Repo/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NafihMT/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/NafihMT/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
