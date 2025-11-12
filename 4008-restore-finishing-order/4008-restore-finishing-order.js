@@ -3,6 +3,8 @@
  * @param {number[]} friends
  * @return {number[]}
  */
-var recoverOrder = function(order, friends) {
+var recoverOrder = function (order, friends) {
+   
     return order.filter(x=>friends.includes(x));
+
 };
