@@ -8,6 +8,7 @@ var shuffle = function (nums, n) {
     const shuffle = []
 
     for (let i = 0; i < nums.length / 2; i++) {
+        
         shuffle.push(nums[i], nums[i + n])
     }
     return shuffle
