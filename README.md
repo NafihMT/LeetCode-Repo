@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NafihMT/LeetCode-Repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/NafihMT/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NafihMT/LeetCode-Repo/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NafihMT/LeetCode-Repo/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NafihMT/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/NafihMT/LeetCode-Repo/tree/master/4008-restore-finishing-order) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/NafihMT/LeetCode-Repo/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NafihMT/LeetCode-Repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NafihMT/LeetCode-Repo/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-convert-date-to-binary](https://github.com/NafihMT/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NafihMT/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NafihMT/LeetCode-Repo/tree/master/3676-smallest-number-with-all-set-bits) |
