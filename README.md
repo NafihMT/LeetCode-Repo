@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/NafihMT/LeetCode-Repo/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0619-biggest-single-number) |
 | [1179-game-play-analysis-i](https://github.com/NafihMT/LeetCode-Repo/tree/master/1179-game-play-analysis-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/NafihMT/LeetCode-Repo/tree/master/1757-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/NafihMT/LeetCode-Repo/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search
 |  |
