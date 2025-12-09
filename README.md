@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/NafihMT/LeetCode-Repo/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/NafihMT/LeetCode-Repo/tree/master/2491-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2556-convert-the-temperature](https://github.com/NafihMT/LeetCode-Repo/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/NafihMT/LeetCode-Repo/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/2812-find-the-maximum-achievable-number) |
