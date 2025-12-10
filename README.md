@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/NafihMT/LeetCode-Repo/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/NafihMT/LeetCode-Repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NafihMT/LeetCode-Repo/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NafihMT/LeetCode-Repo/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/NafihMT/LeetCode-Repo/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/NafihMT/LeetCode-Repo/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NafihMT/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/NafihMT/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0344-reverse-string) |
