@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/NafihMT/LeetCode-Repo/tree/master/0342-power-of-four) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/NafihMT/LeetCode-Repo/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1448-maximum-69-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NafihMT/LeetCode-Repo/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/NafihMT/LeetCode-Repo/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/NafihMT/LeetCode-Repo/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1448-maximum-69-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1448-maximum-69-number) |
 ## Sliding Window
 |  |
