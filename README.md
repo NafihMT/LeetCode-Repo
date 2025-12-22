@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NafihMT/LeetCode-Repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NafihMT/LeetCode-Repo/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/NafihMT/LeetCode-Repo/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/NafihMT/LeetCode-Repo/tree/master/0771-jewels-and-stones) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NafihMT/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/NafihMT/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1894-merge-strings-alternately](https://github.com/NafihMT/LeetCode-Repo/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/NafihMT/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
