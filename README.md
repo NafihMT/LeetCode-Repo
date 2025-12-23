@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NafihMT/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/NafihMT/LeetCode-Repo/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NafihMT/LeetCode-Repo/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NafihMT/LeetCode-Repo/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/NafihMT/LeetCode-Repo/tree/master/0645-set-mismatch) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/NafihMT/LeetCode-Repo/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/NafihMT/LeetCode-Repo/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/NafihMT/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
