@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/NafihMT/LeetCode-Repo/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/NafihMT/LeetCode-Repo/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/NafihMT/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/NafihMT/LeetCode-Repo/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1448-maximum-69-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1448-maximum-69-number) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NafihMT/LeetCode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/NafihMT/LeetCode-Repo/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/NafihMT/LeetCode-Repo/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NafihMT/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
