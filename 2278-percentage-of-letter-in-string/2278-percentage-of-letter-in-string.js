@@ -11,7 +11,7 @@ var percentageLetter = function (s, letter) {
         }
     }
     // console.log(count)
-    return Number(Math.floor((count / s.length) * 100).toFixed(2))
+    return Number(Math.floor((count / s.length) * 100))
 
 
 };
