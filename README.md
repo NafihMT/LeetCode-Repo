@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/NafihMT/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NafihMT/LeetCode-Repo/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NafihMT/LeetCode-Repo/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3467-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NafihMT/LeetCode-Repo/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NafihMT/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3778-transform-array-by-parity) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/NafihMT/LeetCode-Repo/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NafihMT/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NafihMT/LeetCode-Repo/tree/master/3074-apple-redistribution-into-boxes) |
+| [3467-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3467-transform-array-by-parity) |
 | [3778-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NafihMT/LeetCode-Repo/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3467-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3467-transform-array-by-parity) |
 | [3778-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NafihMT/LeetCode-Repo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
