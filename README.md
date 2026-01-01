@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NafihMT/LeetCode-Repo/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/NafihMT/LeetCode-Repo/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/NafihMT/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NafihMT/LeetCode-Repo/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NafihMT/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/NafihMT/LeetCode-Repo/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/NafihMT/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NafihMT/LeetCode-Repo/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/NafihMT/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/NafihMT/LeetCode-Repo/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
