@@ -1,4 +1,7 @@
 class Solution(object):
+    def __init__(self):
+        self.cache = {}
+
     def fib(self, n):
         """
         :type n: int
@@ -13,16 +16,16 @@ class Solution(object):
         #     a , b = b , a + b
         # return b
 
-        cache = {}
-    
+        # cache = {}
+        # def helper(n):
         if(n == 0):
             return 0
         if(n == 1):
             return 1
 
-        if(n in cache):
-            return cache[n]
-        cache[n] = self.fib(n - 1) + self.fib(n - 2)
+        if(n in self.cache):
+            return self.cache[n]
+        self.cache[n] = self.fib(n - 1) + self.fib(n - 2)
         
-        return cache[n]
-            
+        return self.cache[n]       
+        # return helper(n)
