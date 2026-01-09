@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/NafihMT/LeetCode-Repo/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NafihMT/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NafihMT/LeetCode-Repo/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/NafihMT/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NafihMT/LeetCode-Repo/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NafihMT/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0509-fibonacci-number) |
 ## Combinatorics
@@ -319,5 +321,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
