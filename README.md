@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NafihMT/LeetCode-Repo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NafihMT/LeetCode-Repo/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NafihMT/LeetCode-Repo/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NafihMT/LeetCode-Repo/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NafihMT/LeetCode-Repo/tree/master/0125-valid-palindrome) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/NafihMT/LeetCode-Repo/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NafihMT/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NafihMT/LeetCode-Repo/tree/master/0069-sqrtx) |
