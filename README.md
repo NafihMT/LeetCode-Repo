@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NafihMT/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NafihMT/LeetCode-Repo/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/NafihMT/LeetCode-Repo/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/NafihMT/LeetCode-Repo/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NafihMT/LeetCode-Repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NafihMT/LeetCode-Repo/tree/master/0242-valid-anagram) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/NafihMT/LeetCode-Repo/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/NafihMT/LeetCode-Repo/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NafihMT/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NafihMT/LeetCode-Repo/tree/master/0069-sqrtx) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/NafihMT/LeetCode-Repo/tree/master/0043-multiply-strings) |
 | [2048-build-array-from-permutation](https://github.com/NafihMT/LeetCode-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NafihMT/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
