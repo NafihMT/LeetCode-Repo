@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/NafihMT/LeetCode-Repo/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NafihMT/LeetCode-Repo/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/NafihMT/LeetCode-Repo/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/NafihMT/LeetCode-Repo/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NafihMT/LeetCode-Repo/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1873-longest-nice-substring](https://github.com/NafihMT/LeetCode-Repo/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/NafihMT/LeetCode-Repo/tree/master/1894-merge-strings-alternately) |
