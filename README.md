@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/NafihMT/LeetCode-Repo/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/NafihMT/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/NafihMT/LeetCode-Repo/tree/master/0645-set-mismatch) |
+| [1009-complement-of-base-10-integer](https://github.com/NafihMT/LeetCode-Repo/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NafihMT/LeetCode-Repo/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1873-longest-nice-substring](https://github.com/NafihMT/LeetCode-Repo/tree/master/1873-longest-nice-substring) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NafihMT/LeetCode-Repo/tree/master/3676-smallest-number-with-all-set-bits) |
