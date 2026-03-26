@@ -11,14 +11,32 @@
  */
 public class Solution {
     public bool HasCycle(ListNode head) {
-        HashSet<ListNode> visited = new HashSet<ListNode>();
-        while(head != null){
-            if(visited.Contains(head)){
+        // HashSet<ListNode> visited = new HashSet<ListNode>();
+        // while(head != null){
+        //     if(visited.Contains(head)){
+        //         return true;
+        //     }
+        //     visited.Add(head);
+        //     head=head.next;
+        // }
+        // return false;
+
+        if(head == null){
+            return false;
+        }
+
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast !=null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+
+            if(slow == fast){
                 return true;
             }
-            visited.Add(head);
-            head=head.next;
         }
         return false;
+
     }
 }
