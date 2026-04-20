@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/NafihMT/LeetCode-Repo/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/NafihMT/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
+| [3340-check-balanced-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/3340-check-balanced-string) |
 | [3567-convert-date-to-binary](https://github.com/NafihMT/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/NafihMT/LeetCode-Repo/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NafihMT/LeetCode-Repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
