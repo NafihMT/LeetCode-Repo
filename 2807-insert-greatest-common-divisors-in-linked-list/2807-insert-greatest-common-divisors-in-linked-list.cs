@@ -12,14 +12,12 @@
 public class Solution {
     public ListNode InsertGreatestCommonDivisors(ListNode head) {
         if(head == null || head.next == null) return head;
-
         ListNode curr = head;
 
         while(curr.next != null){
-
             int gcdVal = getGcd(curr.val, curr.next.val);
-
             ListNode newNode = new ListNode(gcdVal, curr.next);
+
             curr.next = newNode;
             curr = newNode.next;
         }
