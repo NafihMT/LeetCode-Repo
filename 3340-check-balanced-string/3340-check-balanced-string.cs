@@ -1,16 +1,17 @@
 public class Solution {
     public bool IsBalanced(string num) {
-        int evenSum = 0, oddSum = 0;
-        
-        for (int i = 0; i < num.Length; i++) {
-            if (i % 2 == 0) {
-                evenSum += num[i] - '0';
-            } else {
-                oddSum += num[i] - '0';
+        int even = 0;
+        int odd = 0;
+        for(int i = 0; i < num.Length; i++){
+            if(i % 2 == 0){
+                even += num[i] - '0';
             }
-            Console.WriteLine(oddSum + evenSum);
+            else{
+                odd += num[i] - '0';
+            }
+        // Console.WriteLine(even + " " + odd);
         }
+        return even == odd;
         
-        return evenSum == oddSum;
     }
 }
