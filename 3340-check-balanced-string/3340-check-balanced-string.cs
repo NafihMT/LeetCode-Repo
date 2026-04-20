@@ -8,6 +8,7 @@ public class Solution {
             } else {
                 oddSum += num[i] - '0';
             }
+            Console.WriteLine(oddSum + evenSum);
         }
         
         return evenSum == oddSum;
