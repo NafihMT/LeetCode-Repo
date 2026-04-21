@@ -363,5 +363,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NafihMT/LeetCode-Repo/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/NafihMT/LeetCode-Repo/tree/master/0237-delete-node-in-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/NafihMT/LeetCode-Repo/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
