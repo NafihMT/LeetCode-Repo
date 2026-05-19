@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NafihMT/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NafihMT/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/NafihMT/LeetCode-Repo/tree/master/0278-first-bad-version) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NafihMT/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
@@ -365,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NafihMT/LeetCode-Repo/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NafihMT/LeetCode-Repo/tree/master/0237-delete-node-in-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/NafihMT/LeetCode-Repo/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/NafihMT/LeetCode-Repo/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
