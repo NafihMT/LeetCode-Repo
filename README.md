@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/NafihMT/LeetCode-Repo/tree/master/2502-sort-the-people) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NafihMT/LeetCode-Repo/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NafihMT/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/NafihMT/LeetCode-Repo/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NafihMT/LeetCode-Repo/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NafihMT/LeetCode-Repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/NafihMT/LeetCode-Repo/tree/master/3194-find-words-containing-character) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/NafihMT/LeetCode-Repo/tree/master/2752-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/NafihMT/LeetCode-Repo/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2812-find-the-maximum-achievable-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/2812-find-the-maximum-achievable-number) |
+| [3024-type-of-triangle](https://github.com/NafihMT/LeetCode-Repo/tree/master/3024-type-of-triangle) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/NafihMT/LeetCode-Repo/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NafihMT/LeetCode-Repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NafihMT/LeetCode-Repo/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NafihMT/LeetCode-Repo/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/NafihMT/LeetCode-Repo/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NafihMT/LeetCode-Repo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/NafihMT/LeetCode-Repo/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NafihMT/LeetCode-Repo/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3467-transform-array-by-parity) |
 | [3778-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3778-transform-array-by-parity) |
