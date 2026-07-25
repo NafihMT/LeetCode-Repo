@@ -4,7 +4,8 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        n = [int(d) for d in str(n)]
-        n.sort()
-        return int(n[-1] * n[-2])
+        # n = [int(d) for d in str(n)]
+        # n.sort()
+        m = sorted(str(n))
+        return int(m[-1]) * int(m[-2])
         
