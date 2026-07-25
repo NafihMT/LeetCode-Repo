@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NafihMT/LeetCode-Repo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NafihMT/LeetCode-Repo/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NafihMT/LeetCode-Repo/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/NafihMT/LeetCode-Repo/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-convert-date-to-binary](https://github.com/NafihMT/LeetCode-Repo/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NafihMT/LeetCode-Repo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NafihMT/LeetCode-Repo/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/NafihMT/LeetCode-Repo/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NafihMT/LeetCode-Repo/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/NafihMT/LeetCode-Repo/tree/master/3536-maximum-product-of-two-digits) |
 | [3778-transform-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
