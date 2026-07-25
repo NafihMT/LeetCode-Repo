@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/NafihMT/LeetCode-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/NafihMT/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/NafihMT/LeetCode-Repo/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NafihMT/LeetCode-Repo/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NafihMT/LeetCode-Repo/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/NafihMT/LeetCode-Repo/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/NafihMT/LeetCode-Repo/tree/master/0918-maximum-sum-circular-subarray) |
 | [1873-longest-nice-substring](https://github.com/NafihMT/LeetCode-Repo/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NafihMT/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/NafihMT/LeetCode-Repo/tree/master/0918-maximum-sum-circular-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -386,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NafihMT/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/NafihMT/LeetCode-Repo/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/NafihMT/LeetCode-Repo/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
