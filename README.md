@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/NafihMT/LeetCode-Repo/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/NafihMT/LeetCode-Repo/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/NafihMT/LeetCode-Repo/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NafihMT/LeetCode-Repo/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/NafihMT/LeetCode-Repo/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/NafihMT/LeetCode-Repo/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/NafihMT/LeetCode-Repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NafihMT/LeetCode-Repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NafihMT/LeetCode-Repo/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/NafihMT/LeetCode-Repo/tree/master/2491-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/NafihMT/LeetCode-Repo/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NafihMT/LeetCode-Repo/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
