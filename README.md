@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NafihMT/LeetCode-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NafihMT/LeetCode-Repo/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NafihMT/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NafihMT/LeetCode-Repo/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/NafihMT/LeetCode-Repo/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/NafihMT/LeetCode-Repo/tree/master/0771-jewels-and-stones) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NafihMT/LeetCode-Repo/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/NafihMT/LeetCode-Repo/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/1635-number-of-good-pairs) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NafihMT/LeetCode-Repo/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
