@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/NafihMT/LeetCode-Repo/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/NafihMT/LeetCode-Repo/tree/master/0771-jewels-and-stones) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NafihMT/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1894-merge-strings-alternately](https://github.com/NafihMT/LeetCode-Repo/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/NafihMT/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NafihMT/LeetCode-Repo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NafihMT/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/NafihMT/LeetCode-Repo/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NafihMT/LeetCode-Repo/tree/master/0918-maximum-sum-circular-subarray) |
 ## Combinatorics
