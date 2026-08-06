@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/NafihMT/LeetCode-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/NafihMT/LeetCode-Repo/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NafihMT/LeetCode-Repo/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/NafihMT/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NafihMT/LeetCode-Repo/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/0905-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/NafihMT/LeetCode-Repo/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/NafihMT/LeetCode-Repo/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/NafihMT/LeetCode-Repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/NafihMT/LeetCode-Repo/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/NafihMT/LeetCode-Repo/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NafihMT/LeetCode-Repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NafihMT/LeetCode-Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
